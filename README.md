@@ -1,5 +1,5 @@
 # Responsive Halloween Website 🎃
-## [Watch it on netlify](https://cute-crostata-90d280.netlify.app) 
+## [Watch it on netlify](https://he11oween.netlify.app) 
 ### Responsive Halloween Website 🎃
 
 - Адаптивный веб-сайт для Хэллоуина с использованием HTML, CSS и JavaScript.
