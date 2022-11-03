@@ -1,13 +1,13 @@
 # Responsive Halloween Website 🎃
-## [Watch it on youtube](https://youtu.be/lgo1CEPZoxg)
+## [Watch it on netlify](https://cute-crostata-90d280.netlify.app) 
 ### Responsive Halloween Website 🎃
 
-- Responsive Halloween Website Using HTML, CSS & JavaScript.
-- Contains animations when scrolling.
-- It has three color designs (green, red and black)
-- Smooth scrolling in each section.
-- Developed first with the Mobile First methodology, then for desktop.
-- Compatible with all mobile devices and with a beautiful and pleasant user interface.
+- Адаптивный веб-сайт для Хэллоуина с использованием HTML, CSS и JavaScript.
+- Содержит анимацию при прокрутке.
+- Он имеет три цветовых оформления (зеленый, красный и черный)
+- Плавная прокрутка в каждом разделе.
+- Сначала разработано с использованием методологии Mobile First, а затем для настольных компьютеров.
+- Совместим со всеми мобильными устройствами и имеет красивый и приятный пользовательский интерфейс.
 
 Join the channel to see more videos like this. [Bedimcode](https://www.youtube.com/c/Bedimcode)
 
